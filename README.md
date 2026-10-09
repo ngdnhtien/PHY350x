@@ -1,7 +1,4 @@
-# comp-phys
-
-Code from an undergraduate computational-physics course, kept as memorabilia:
-it is most probably the last code I wrote by hand, line by line.
+Code from PHY3502/3508 computational physics I/II, kept as memorabilia: it is most probably the last code I wrote by hand, line by line. Everything from here onward is AI-generated.
 
 Read in order, the exercises tell one story — three ways of teaching a computer to do physics:
 
