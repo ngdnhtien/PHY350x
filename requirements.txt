@@ -1,0 +1,6 @@
+numpy
+matplotlib
+sympy
+jupyter
+# optional: only used to pretty-print a matrix in notebook 01
+# qiskit
